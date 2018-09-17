@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import CatComponent from './CatComponent.js'
-import { FordQuoteComponent } from './FordQuoteComponent'
-import MouseComponent from '../MouseComponent'
+import CatComponent from '../src/CatComponent.js'
+import FordQuoteComponent from '../src/FordQuoteComponent.js'
+import MouseComponent from './MouseComponent.js'
 
 class App extends Component {
   render() {
