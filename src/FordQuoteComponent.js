@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-export default class FordQuoteComponent extends Component {
+export class FordQuoteComponent extends Component {
   render() {
     return (
       <div className="bar" id="ford">
